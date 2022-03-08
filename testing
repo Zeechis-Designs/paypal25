@@ -1,0 +1,4 @@
+echo "Welcome to paypal portal, please enter your name"
+read name
+echo "Welome $name"
+
